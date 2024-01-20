@@ -1,4 +1,6 @@
 # Proyecto Banca Bot 🤖💼
+Java | By Micaela Gordillo
+
 Este proyecto es un bot de Telegram diseñado para brindar servicios bancarios básicos. Permite a los usuarios registrarse, verificar su identidad y realizar operaciones bancarias como consultar saldo, retirar y depositar dinero.
 ## Funcionalidades
 ### Registro del Cliente
